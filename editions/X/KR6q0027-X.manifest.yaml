@@ -1,0 +1,108 @@
+canonical_identifier: bkk:krp/KR6q0027/X/v1
+canonical_location: https://kanripo.org/bkk/KR6q0027/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 續燈正統目錄
+  identifiers:
+    krp: KR6q0027
+    cbeta: X84n1582
+    cbeta_old_id: X84n1582
+    authorityid: CA0005013
+    json_key: X1582
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X84/X84n1582.xml
+    old_id: X84n1582
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0027_000-X.yaml, hash: 'sha256:d7c79627b59275e592dbb1c5a66ae0b1da22c20c07ed42a1a1dcfc8c378aec2f'}
+  - {seq: 1, filename: KR6q0027_001-X.yaml, hash: 'sha256:56890a36577e3d54df8fa052db5ee9cce61c9cddfde63ad77c102f24ba3343f4'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0027_000-X.markers.yaml, hash: 'sha256:e139638c3e757cee7d64b1ce0dd57e1bf23beaf1c5268e08d777cfb4466544f3'}
+  - {seq: 1, role: markers, filename: assets/KR6q0027_001-X.markers.yaml, hash: 'sha256:3ecf9bc0924469697d546fd156c3ff512fd92a4fdcba19ae0c84e4d67ee8f629'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1582-A 續燈正統序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-2
+    span:
+    - front
+    - 518
+    - 518
+  label: No. 1582-B 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-3
+    span:
+    - front
+    - 801
+    - 801
+  label: No. 1582-C 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-4
+    span:
+    - front
+    - 1170
+    - 1170
+  label: No. 1582-D 續燈正統序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-5
+    span:
+    - front
+    - 1540
+    - 1540
+  label: No. 1582-E 自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-6
+    span:
+    - front
+    - 2454
+    - 2454
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-7
+    span:
+    - front
+    - 3098
+    - 3098
+  label: 續燈正統目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0027_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 19681
+  label: 續燈正統目錄
+  type: juan
+  level: 1
+hash: sha256:d1693f0797c913b76aadfe35be35b9ae618a9332f27740ed77d7fac9cc572a81

@@ -1,0 +1,113 @@
+canonical_identifier: bkk:krp/KR6q0027/v1
+canonical_location: https://kanripo.org/bkk/KR6q0027/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 續燈正統目錄
+  identifiers:
+    alt_id:
+    - X84n1582
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X84/X84n1582.xml
+    old_id: X84n1582
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6q0027_000.yaml, hash: 'sha256:c9437d25664a24bc601274d9270a8b7886d5674848df86f011ec8375deb7cfa7'}
+  - {seq: 1, filename: KR6q0027_001.yaml, hash: 'sha256:613e0d542743dc23cf24ce0acd94a62f3f0f6696bc78e1d2dd1df0f71c146c73'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6q0027_000.markers.yaml, hash: 'sha256:ade2225141b28b6a27a4eedd5d537a7f6e5be5e5182c4cd2800d9e3fa0f220a2'}
+  - {seq: 1, role: markers, filename: assets/KR6q0027_001.markers.yaml, hash: 'sha256:823c439c503a2f975f855c44026901866a60089610212aa70f523ca6ef3fa882'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 1582-A 續燈正統序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-2
+    span:
+    - front
+    - 518
+    - 518
+  label: No. 1582-B 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-3
+    span:
+    - front
+    - 801
+    - 801
+  label: No. 1582-C 序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-4
+    span:
+    - front
+    - 1170
+    - 1170
+  label: No. 1582-D 續燈正統序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-5
+    span:
+    - front
+    - 1540
+    - 1540
+  label: No. 1582-E 自序
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-6
+    span:
+    - front
+    - 2454
+    - 2454
+  label: 凡例
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6q0027_X_000-mulu-7
+    span:
+    - front
+    - 3098
+    - 3098
+  label: 續燈正統目錄
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6q0027_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 19681
+  label: 續燈正統目錄
+  type: juan
+  level: 1
+hash: sha256:7dc03ff8b354d23fbb09d20c63e86b2d9d3c62b8ec95abe6b6be0e1329b0cd9b
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
