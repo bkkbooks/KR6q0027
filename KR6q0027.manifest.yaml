@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0027_000.yaml, hash: 'sha256:c9437d25664a24bc601274d9270a8b7886d5674848df86f011ec8375deb7cfa7'}
-  - {seq: 1, filename: KR6q0027_001.yaml, hash: 'sha256:613e0d542743dc23cf24ce0acd94a62f3f0f6696bc78e1d2dd1df0f71c146c73'}
+  - {seq: 0, filename: KR6q0027_000.yaml, hash: 'sha256:d7c79627b59275e592dbb1c5a66ae0b1da22c20c07ed42a1a1dcfc8c378aec2f'}
+  - {seq: 1, filename: KR6q0027_001.yaml, hash: 'sha256:56890a36577e3d54df8fa052db5ee9cce61c9cddfde63ad77c102f24ba3343f4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0027_000.markers.yaml, hash: 'sha256:ade2225141b28b6a27a4eedd5d537a7f6e5be5e5182c4cd2800d9e3fa0f220a2'}
-  - {seq: 1, role: markers, filename: assets/KR6q0027_001.markers.yaml, hash: 'sha256:823c439c503a2f975f855c44026901866a60089610212aa70f523ca6ef3fa882'}
+  - {seq: 0, role: markers, filename: assets/KR6q0027_000.markers.yaml, hash: 'sha256:eb20f80685a0c54e1b55716f92032e5778a671f7ed3d6731e913520f2f9d2369'}
+  - {seq: 1, role: markers, filename: assets/KR6q0027_001.markers.yaml, hash: 'sha256:69f60216f8c72288461b009658e9048744015ad49ed299088b5a723d866c3319'}
 table_of_contents:
 - ref:
     seq: 0
@@ -107,7 +107,4 @@ table_of_contents:
   label: 續燈正統目錄
   type: juan
   level: 1
-hash: sha256:7dc03ff8b354d23fbb09d20c63e86b2d9d3c62b8ec95abe6b6be0e1329b0cd9b
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:9eeeea9f87a905a5275f78d9d004b986cbe8e2bed319f134a1af98f842e150fd
