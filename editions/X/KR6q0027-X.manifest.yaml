@@ -19,17 +19,17 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6q0027_000-X.yaml, hash: 'sha256:d7c79627b59275e592dbb1c5a66ae0b1da22c20c07ed42a1a1dcfc8c378aec2f'}
+  - {seq: 0, filename: KR6q0027_000-X.yaml, hash: 'sha256:c69f2474af2d15bc86c35f69994a5e346580d9d13f35beda7bf59972f5729d5e'}
   - {seq: 1, filename: KR6q0027_001-X.yaml, hash: 'sha256:56890a36577e3d54df8fa052db5ee9cce61c9cddfde63ad77c102f24ba3343f4'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6q0027_000-X.markers.yaml, hash: 'sha256:e139638c3e757cee7d64b1ce0dd57e1bf23beaf1c5268e08d777cfb4466544f3'}
+  - {seq: 0, role: markers, filename: assets/KR6q0027_000-X.markers.yaml, hash: 'sha256:82a2768b8ef3d728ef58fc7020cdf65c32b0fcf0e8a8ddcd082ac60ed72b822a'}
   - {seq: 1, role: markers, filename: assets/KR6q0027_001-X.markers.yaml, hash: 'sha256:3ecf9bc0924469697d546fd156c3ff512fd92a4fdcba19ae0c84e4d67ee8f629'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6q0027_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 1582-A 續燈正統序
@@ -39,7 +39,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0027_X_000-mulu-2
     span:
-    - front
+    - body
     - 518
     - 518
   label: No. 1582-B 序
@@ -49,7 +49,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0027_X_000-mulu-3
     span:
-    - front
+    - body
     - 801
     - 801
   label: No. 1582-C 序
@@ -59,7 +59,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0027_X_000-mulu-4
     span:
-    - front
+    - body
     - 1170
     - 1170
   label: No. 1582-D 續燈正統序
@@ -69,7 +69,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0027_X_000-mulu-5
     span:
-    - front
+    - body
     - 1540
     - 1540
   label: No. 1582-E 自序
@@ -79,7 +79,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0027_X_000-mulu-6
     span:
-    - front
+    - body
     - 2454
     - 2454
   label: 凡例
@@ -89,7 +89,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6q0027_X_000-mulu-7
     span:
-    - front
+    - body
     - 3098
     - 3098
   label: 續燈正統目錄
@@ -105,4 +105,4 @@ table_of_contents:
   label: 續燈正統目錄
   type: juan
   level: 1
-hash: sha256:d1693f0797c913b76aadfe35be35b9ae618a9332f27740ed77d7fac9cc572a81
+hash: sha256:bb24b0e1ba00138535c37e0938d5962ee273ae86b7d629bd9dfd5a57ca797513
